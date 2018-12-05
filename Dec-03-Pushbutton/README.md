@@ -1,5 +1,7 @@
 # Day 3 - Pushbutton
 
+https://www.littlebird.com.au/learn/93/push-button-with-micro-bit
+
 First of all we connected up the green led and the 220R resistor, and turned
 that on when the button was pressed. The kids seemed quite taken with the
 immediacy of it.

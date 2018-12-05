@@ -1,5 +1,7 @@
 # Day 1 - Use a Two Colour LED Module with micro:bit
 
+https://www.littlebird.com.au/learn/62/use-a-two-colour-led-module-with-micro-bit
+
 I'd had a play around with this module beforehand, just so I could hit the
 ground running with the kids. I found I got better results using a 680R resistor
 on the red pin, and a 100R on the green. This gave an even intensity between red

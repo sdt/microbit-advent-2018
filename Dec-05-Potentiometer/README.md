@@ -1,5 +1,7 @@
 # Day 5 - Potentiometer
 
+https://discourse.littlebird.com.au/t/micro-bit-advent-calendar-day-05-control-led-brightness-using-a-potentiometer/1034/7
+
 Yesterday's session ran a bit long, so today we kept it short. Don't want to be
 burning the kids out just yet.
 
